@@ -9,3 +9,8 @@ h1{
 ul p{
     color: brown;
 }
+
+img{
+    width: 250px;
+    border: 1px solid black;
+}
